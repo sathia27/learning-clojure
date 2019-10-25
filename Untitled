@@ -1,0 +1,280 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="x-apple-disable-message-reformatting">
+<style type="text/css">
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900);
+/* CLIENT-SPECIFIC STYLES */
+body, table, td, a{-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%;} /* Prevent WebKit and Windows mobile changing default text sizes */
+a{color:#00D1C1 !important;}
+table, td{mso-table-lspace: 0pt; mso-table-rspace: 0pt;} /* Remove spacing between tables in Outlook 2007 and up */
+img{-ms-interpolation-mode: bicubic;} /* Allow smoother rendering of resized image in Internet Explorer */
+
+/* RESET STYLES */
+img{border: 0; height: auto; line-height: 100%; outline: none; text-decoration: none;}
+table{border-collapse: collapse !important;}
+body{height: 100% !important; margin: 0 !important; padding: 0 !important; width: 100% !important;}
+
+/* iOS BLUE LINKS */
+a[x-apple-data-detectors] {
+color: inherit !important;
+text-decoration: none !important;
+font-size: inherit !important;
+font-family: inherit !important;
+font-weight: inherit !important;
+line-height: inherit !important;
+}
+
+[style*="Source Sans Pro"] {
+    font-family: 'Source Sans Pro', Arial, sans-serif !important
+}
+
+.table--content {
+    font-size: 16px !important;
+}
+
+.lastRow {
+    border-bottom: 0 !important;
+}
+
+/* MOBILE STYLES */
+@media screen and (max-width: 639px) {
+    .table--wrapper {
+        background-size: auto 160px !important;
+        max-width: 100% !important;
+        width: 100% !important;
+    }
+    .table--content {
+        font-size: 18px !important;
+        width: 90% !important;
+    }
+    .table--content--details {
+        padding: 24px !important;
+    }
+    .table--content--details h2 {
+        font-size: 24px !important;
+    }
+    .table--content--details .sub__header {
+        font-size: 18px !important;
+        line-height: 22px !important;
+    }
+    .table--content--details .sub__header__msg {
+        font-size: 16px !important;
+        line-height: 22px !important;
+        padding-top: 0 !important;
+    }
+    .table--content--details strong {
+        font-size: 18px !important;
+    }
+    .table--content--details .details__copy {
+        font-size: 13px !important;
+        line-height: 20px !important;
+    }
+    .table--footer {
+        width: 90% !important;
+    }
+    .logo {
+        padding: 18px 0 !important;
+    }
+    .logo img {
+        margin: 0 !important;
+        width: 100px !important;
+    }
+    .totalSpent {
+        margin-top: 12px !important;
+    }
+    .newLine {
+        display: block !important;
+        text-align: left !important;
+    }
+    .resetPadding {
+        padding: 0 !important;
+    }
+    .paddingTop16 {
+        padding-top: 16px !important;
+    }
+    .paddingBtm16 {
+        padding-bottom: 16px !important;
+    }
+    .footer--address {
+        width: 100% !important;
+    }
+    .bill_icon_td {
+        display: none !important;
+    }
+}
+@media only screen and (max-width: 600px) {
+    *[class="gmail-fix"] {
+        display: none !important;
+    }
+}
+</style>
+
+
+<table width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody><tr class="gmail-fix">
+<td>
+    <table width="600" cellspacing="0" cellpadding="0" border="0" align="center">
+    <tbody><tr>
+    <td cellpadding="0" cellspacing="0" border="0" ;="" style="line-height: 1px; min-width: 600px;" height="1">
+    <img src="https://cdn.getsimpl.com/images/email/Spacer.gif" style="display: block; max-height: 1px; min-height: 1px; min-width: 600px; width: 600px;" width="600" height="1">
+    </td>
+    </tr>
+    </tbody></table>
+</td>
+</tr>
+<tr>
+<td>
+    <table class="table--wrapper" width="900px" cellspacing="0" cellpadding="0" border="0" align="center">
+    <tbody><tr>
+    <td style="background-position:0 0;position:relative;text-align:center;" valign="top" bgcolor="#00d1c1" background="https://cdn.getsimpl.com/images/email/transactions/green-gradiant-bg.png" align="center">
+        <!--[if gte mso 9]>
+        <v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="mso-width-percent:1000;height:83px;">
+            <v:fill type="tile" src="https://cdn.getsimpl.com/images/email/transactions/green-gradiant-bg.png" color="#00d1c1" />
+            <v:textbox inset="0,0,0,0">
+        <![endif]-->
+        <div>
+        <!-- Mail Content : Start -->
+        <table style="width:600px;" class="table--content" cellspacing="0" cellpadding="0" border="0" align="center">
+        <tbody><tr>
+        <td style="padding:30px;" class="logo" valign="top" align="center">
+            <table width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+            <tbody><tr>
+            <td class="newLine">
+                <a href="http://getsimpl.com" target="_blank" title="Link: http://getsimpl.com">
+                    <img alt="Simpl Logo" src="https://cdn.getsimpl.com/images/email/transactions/simpl-logo-white.png" style="display: block; font-family: Helvetica, Arial, sans-serif; color: #ffffff; font-size: 16px;" width="140" border="0">
+                </a>
+            </td>
+            </tr>
+            </tbody></table>
+        </td>
+        </tr>
+        </tbody></table>
+        <!-- Mail Content : End -->
+        </div>
+        <!--[if gte mso 9]>
+        </v:textbox>
+        </v:rect>
+        <![endif]-->
+    </td>
+    </tr>
+    <tr>
+    <td style="background-repeat:no-repeat;background-size:100% 83px;background-position:0 0;position:relative;text-align:center;" valign="top" bgcolor="#F6F6F6" background="https://cdn.getsimpl.com/images/email/transactions/green-gradiant-bg.png" align="center">
+        <!--[if gte mso 9]>
+        <v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="mso-width-percent:1000;height:166px;">
+            <v:fill type="tile" src="https://cdn.getsimpl.com/images/email/transactions/green-gradiant-bg.png" color="#F6F6F6" />
+            <v:textbox inset="0,0,0,0">
+        <![endif]-->
+        <div>
+        <!-- Mail Content : Start -->
+        <table style="width:600px;" class="table--content" cellspacing="0" cellpadding="0" border="0" align="center">
+        <tbody><tr>
+        <td class="table--content--details" style="padding:40px;margin:0 auto;" valign="top" bgcolor="#fff" align="left">
+            <h1 style="display:block;mso-table-lspace:0;mso-table-rspace:0;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;margin: 0;font-family:Source Sans Pro, Helvetica, Arial, sans-serif;font-size:16px;font-weight:normal;">Hi {{first_name || there}},</h1>
+            <h2 style="display:block;mso-table-lspace:0;mso-table-rspace:0;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;font-family:Source Sans Pro, Helvetica, Arial, sans-serif;font-size:36px;font-weight:900;color:#00A699;line-height:1;margin:0;padding:12px 0 22px;border-bottom:1px solid #E0E0E0;"><b style="font-weight:600;">₹</b>{{transaction__amount_in_rupees}} <strong style="color:#000;font-size:28px;font-weight:600;">on {{#if transaction__is_simpl_pay_later}}{{transaction__merchant_name}}{{#else}}{{transaction__product_name}}{{/if}}</strong> <span style="color:#000;display:block;font-size:16px;font-weight:normal;line-height:22px;padding-top:4px;">has been refunded via <b>{{transaction__issuer_name}}.</b></span></h2>
+            <table width="100%" cellspacing="0" cellpadding="0" border="0">
+            <tbody><tr>
+            <td class="newLine resetPadding paddingTop16 details__copy" style="color:#888;font-family:Source Sans Pro,Helvetica,Arial,sans-serif;font-weight:normal;font-size:16px;line-height:20px;margin:0;padding:8px 0 0;" align="left">{{transaction__datetime}}</td>
+            <td class="newLine resetPadding paddingBtm16 details__copy" style="color:#888;font-family:Source Sans Pro,Helvetica,Arial,sans-serif;font-weight:normal;font-size:16px;line-height:20px;margin:0;padding:8px 0 0;" align="right">Order ID: {{transaction__order_id}}</td>
+            </tr>
+            </tbody></table>
+            <p class="sub__header__msg" style="color:#000;font-family:Source Sans Pro,Helvetica,Arial,sans-serif;font-weight:normal;font-size:16px;line-height:22px;margin:0;padding:32px 16px 0 0;">This amount will be adjusted in your Simpl ONE Bill.</p>
+        </td>
+        </tr>
+        <tr>
+          <td class="table--content--details" style="padding:40px;margin:0 auto;" valign="top" bgcolor="#fff" align="left">
+            {{#if transaction__does_show_transaction_summary}}
+              <h2 class="sub__header" style="display:block;mso-table-lspace:0;mso-table-rspace:0;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;font-family:Source Sans Pro, Helvetica, Arial, sans-serif;font-size:22px;font-weight:600;color:#000;line-height:26px;margin:0 0 6px;padding:0 0 16px;">ONE BILL SUMMARY</h2>
+              {{#foreach issuer in transaction__issuers}}
+              <table width="100%" cellspacing="0" cellpadding="0" border="0">
+              <tbody><tr>
+              <td style="border:0;padding:12px 0;" width="60px" align="left"><img alt="{{issuer.name}}" src="{{issuer.logo}}" style="border:0;height:36px;width:36px;"></td>
+              <td style="border-bottom:1px solid #E0E0E0;color:#888;font-family:Source Sans Pro,Helvetica,Arial,sans-serif;font-weight:600;font-size:16px;line-height:18px;margin:0;padding:12px 0;" align="left">{{issuer.name}}</td>
+              <td style="border-bottom:1px solid #E0E0E0;color:#000;font-family:Source Sans Pro,Helvetica,Arial,sans-serif;font-weight:normal;font-size:16px;line-height:22px;margin:0;padding:12px 0;" width="25%" align="right">₹{{issuer.total_amount_due}}</td>
+              </tr>
+              </tbody></table>
+              {{/foreach}}
+            {{/if}}
+              <table width="100%" cellspacing="0" cellpadding="0" border="0">
+              <tbody><tr>
+              <td style="border: 0;color:#000;font-family:Source Sans Pro,Helvetica,Arial,sans-serif;font-weight:600;font-size:16px;line-height:18px;margin:0;padding:12px 0;" width="50%" align="right">Total Due:  </td>
+              <td style="border: 0;font-family:Source Sans Pro,Helvetica,Arial,sans-serif;font-weight:bold;font-size:16px;line-height:22px;margin:0;padding:12px 0;" width="50%" align="left">₹{{total_amount_due_in_rupee}}</td>
+              </tr>
+              </tbody></table>
+          </td>
+        </tr>
+        <tr>
+        <td><img src="https://cdn.getsimpl.com/images/email/Spacer.gif" style="display: block; max-height:10px; min-height: 10px;" height="10"></td>
+        </tr>
+        <tr>
+        <td class="table--content--details" style="padding:40px;margin:0 auto;" valign="top" bgcolor="#fff" align="left">
+            <h2 class="sub__header" style="display:block;mso-table-lspace:0;mso-table-rspace:0;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;font-family:Source Sans Pro, Helvetica, Arial, sans-serif;font-size:22px;font-weight:600;color:#000;line-height:26px;margin:0 0 6px;padding:0;">Anything wrong with the order?</h2>
+            <p style="display:block;mso-table-lspace:0;mso-table-rspace:0;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;font-family:Source Sans Pro, Helvetica, Arial, sans-serif;font-size:16px;font-weight:normal;color:#000;line-height:20px;margin:0;padding:0;">Let us know and we’ll have it checked</p>
+            <p style="display:block;margin:24px 0 0;"><a href="http://getsimpl.com/help" class="btn-block" style="mso-table-lspace:0;mso-table-rspace:0;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;background:linear-gradient(90deg, #00D1C1 0%, #00D1DC 100%);background-color:#00D1C1;border-radius: 4px;display:block;color:#fff !important;font-family:Source Sans Pro, Helvetica, Arial, sans-serif;font-size:16px;font-weight:600;letter-spacing:1px;line-height:20px;max-width:265px;padding:16px 0;text-align:center;text-decoration:none;text-transform:uppercase;width:100%;" target="_blank">Contact Support</a></p>
+        </td>
+        </tr>
+        <tr>
+        <td class="table--footer" style="padding-top:50px;" valign="middle" align="center">
+            <table width="100%" cellspacing="0" cellpadding="0" border="0">
+            <tbody><tr>
+            <td style="padding-bottom:40px;">
+                <table width="100%" cellspacing="0" cellpadding="0" border="0">
+                <tbody><tr>
+                <td style="padding-bottom:24px;" align="left">
+                    <a href="https://getsimpl.com/" target="_blank"><img alt="Simpl" src="https://cdn.getsimpl.com/images/email/transactions/simpl-logo-grey.png" width="80"></a>
+                </td>
+                <td style="padding-bottom:24px;" align="right">
+                    <table class="socail-share" style="list-style:none;margin:0;overflow:hidden;padding:0;">
+                    <tbody><tr>
+                    <td style="padding-right:16px;"><a href="https://twitter.com/getsimpl" target="_blank"><img alt="Simpl on Twitter" src="https://cdn.getsimpl.com/images/email/transactions/simpl-twitter.png" width="20"></a></td>
+                    <td style="padding-right:16px;"><a href="https://www.facebook.com/getsimpl" target="_blank"><img alt="Simpl on Facebook" src="https://cdn.getsimpl.com/images/email/transactions/simpl-facebook.png" width="17"></a></td>
+                    <td style="padding-right:16px;"><a href="http://instagram.com/getsimpl/" target="_blank"><img alt="Simpl on Instagram" src="https://cdn.getsimpl.com/images/email/transactions/simpl-instagram.png" width="17"></a></td>
+                    <td style=""><a href="https://www.linkedin.com/company/get-simpl" target="_blank"><img alt="Simpl on LinkedIn" src="https://cdn.getsimpl.com/images/email/transactions/simpl-linkedin.png" width="17"></a></td>
+                    </tr>
+                    </tbody></table>
+                </td>
+                </tr>
+                </tbody></table>
+                <hr style="background:#888;border:0;height:1px;">
+                <table width="100%" cellspacing="0" cellpadding="0" border="0">
+                    <tbody><tr>
+                    <td style="padding-bottom:24px;padding-top:24px;" valign="top" align="left">
+                        <table style="list-style:none;margin:0;padding:0;mso-table-lspace:0;mso-table-rspace:0;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;font-family:Source Sans Pro, Helvetica, Arial, sans-serif;font-size:16px;font-weight:600;line-height:20px;">
+                        <tbody><tr>
+                        <td><a href="http://getsimpl.com/dashboard" target="_blank" style="color:#888 !important;display:block;text-decoration:none;text-transform:uppercase;padding-bottom:18px;">View Dashboard</a></td>
+                        </tr>
+                        <tr>
+                        <td><a href="http://getsimpl.com/help" target="_blank" style="color:#888 !important;display:block;text-decoration:none;text-transform:uppercase;">Read FAQ</a></td>
+                        </tr>
+                        </tbody></table>
+                    </td>
+                    <td style="padding-bottom:24px;padding-top:24px;" valign="top" align="right">
+                        <h3 style="margin:0;padding:0;mso-table-lspace:0;mso-table-rspace:0;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;color:#888;font-family:Source Sans Pro, Helvetica, Arial, sans-serif;font-size:16px;font-weight:normal;line-height:20px;">Get the app:</h3>
+                        <table style="list-style:none;margin:0;overflow:hidden;">
+                        <tbody><tr>
+                        <td style="padding-top:16px;padding-right:18px;"><a href="http://app.getsimpl.com/HJNm/C42CCjis4s"><img alt="Simpl on Twitter" src="https://cdn.getsimpl.com/images/email/transactions/get-android.png" width="16"></a></td>
+                        <td style="padding-top:16px;"><a href="http://app.getsimpl.com/HJNm/C42CCjis4s"><img alt="Simpl on Twitter" src="https://cdn.getsimpl.com/images/email/transactions/get-apple.png" width="15"></a></td>
+                        </tr>
+                        </tbody></table>
+                    </td>
+                    </tr>
+                </tbody></table>
+                <p class="footer--address" style="margin:0;padding:8px 0 40px;mso-table-lspace:0;mso-table-rspace:0;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;font-family:Source Sans Pro, Helvetica, Arial, sans-serif;font-size:14px;font-weight:normal;line-height:18px;color:#888;width:80%;">© Simpl 2019. 1st &amp; 2nd Floor, Kagalwala House, Plot No. 175, BHD Metro House, CST Road, Kalina, BKC, Santacruz (E), Mumbai - 400 098</p>
+            </td>
+            </tr>
+            </tbody></table>
+        </td>
+        </tr>
+        </tbody></table>
+        <!-- Mail Content : End -->
+        </div>
+        <!--[if gte mso 9]>
+        </v:textbox>
+        </v:rect>
+        <![endif]-->
+    </td>
+    </tr>
+    </tbody></table>
+</td>
+</tr>
+</tbody></table>
