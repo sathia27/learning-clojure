@@ -20,5 +20,5 @@
   (println (or nil false :tenerary_operator_works :this_sucks))
   (def variable-declaration-sample
      ["sathia", "vikki"])
-  (println variable-declaration-sample))
-  (println (test-my-function :works))
+  (println variable-declaration-sample)
+  (println (test-my-function :works)))
